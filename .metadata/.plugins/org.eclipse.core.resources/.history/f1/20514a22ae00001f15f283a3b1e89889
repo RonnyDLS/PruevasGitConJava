@@ -1,0 +1,15 @@
+import javax.swing.JOptionPane;
+
+public class PrimeraClase {
+
+	public static void main(String[] args) {
+		
+		String p, a;
+		p = "Jose";
+		a = "jose";
+		
+		System.out.println(p.equals(a));
+		
+		
+	}
+}

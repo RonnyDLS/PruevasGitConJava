@@ -1,0 +1,18 @@
+import javax.swing.JOptionPane;
+
+public class PrimeraClase {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		String p = "Hola como estas?";
+		
+		String f = p.substring(1, 6);
+		
+		System.out.println(f);
+		
+		JOptionPane.showInputDialog(f);
+		
+	}
+
+}
